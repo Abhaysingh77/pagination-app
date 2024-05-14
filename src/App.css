@@ -29,5 +29,7 @@ span{
   box-sizing: border-box;
   background-color: rgba(122, 122, 122, 0.797);
   padding: 0.5rem;
-
+}
+td{
+  border: 1px solid #ddd;
 }
