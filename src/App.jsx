@@ -16,7 +16,7 @@ function App() {
         setApiData(data);
         console.log(apiData);
       } catch (err) {
-        console.err("failed to fetch data");
+        alert("failed to fetch data");
       }
     })();
   }, []);
